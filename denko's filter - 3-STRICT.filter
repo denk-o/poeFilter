@@ -430,7 +430,7 @@ Show # $Rare->Elder->T1 $x->ShaperElder
 	PlayAlertSound 3 300                 # DROPSOUND:	 Unique
 	MinimapIcon 0 Blue Diamond
 	PlayEffect Blue
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 #------------------------------------
 #   [0402] Elder Item Layers - T1
@@ -449,7 +449,7 @@ Show # $Rare->Elder->T1 $x->ShaperElder
 	PlayAlertSound 6 300                 # DROPSOUND:	 T0 Drop
 	MinimapIcon 0 Red Diamond
 	PlayEffect Red
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 # Level-Dependent Expensive finds (80)
 
@@ -465,7 +465,7 @@ Show # $Rare->Elder->T1 $x->ShaperElder
 	PlayAlertSound 6 300                 # DROPSOUND:	 T0 Drop
 	MinimapIcon 0 Red Diamond
 	PlayEffect Red
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 Show # $Rare->Elder->T1 $x->ShaperElder
 	ElderItem True
@@ -479,7 +479,7 @@ Show # $Rare->Elder->T1 $x->ShaperElder
 	PlayAlertSound 6 300                 # DROPSOUND:	 T0 Drop
 	MinimapIcon 0 Red Diamond
 	PlayEffect Red
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 # Level-Dependent Expensive finds (84)
 
@@ -495,7 +495,7 @@ Show # $Rare->Elder->T1 $x->ShaperElder
 	PlayAlertSound 3 300                 # DROPSOUND:	 Unique
 	MinimapIcon 0 Red Diamond
 	PlayEffect Red
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 #------------------------------------
 #   [0403] Elder Item Layers - T2
@@ -512,7 +512,7 @@ Show # $Rare->Elder->T2 $x->ShaperElder
 	PlayAlertSound 3 300                 # DROPSOUND:	 Unique
 	MinimapIcon 0 Yellow Diamond
 	PlayEffect Yellow
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 Show # $Rare->Elder->T2 $x->ShaperElder
 	ElderItem True
@@ -526,7 +526,7 @@ Show # $Rare->Elder->T2 $x->ShaperElder
 	PlayAlertSound 3 300                 # DROPSOUND:	 Unique
 	MinimapIcon 0 Yellow Diamond
 	PlayEffect Yellow
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 Show # $Rare->Elder->T2 $x->ShaperElder
 	ElderItem True
@@ -541,7 +541,7 @@ Show # $Rare->Elder->T2 $x->ShaperElder
 	PlayAlertSound 3 300                 # DROPSOUND:	 Unique
 	MinimapIcon 0 Yellow Diamond
 	PlayEffect Yellow
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 #------------------------------------
 #   [0404] Elder Item Layers - T3
@@ -554,7 +554,7 @@ Show # $Rare->Elder->T3 $x->ShaperElder
 	SetTextColor 255 255 255 255         # TEXTCOLOR:	 Cosmetic White
 	SetBorderColor 255 255 255 255       # BORDERCOLOR:	 T1 highlight
 	SetBackgroundColor 50 130 165        # BACKGROUND:	 Shaper T3
-CustomAlertSound "LootSounds/hadouken.mp3" 300
+CustomAlertSound "LootSounds/YAMERO.mp3" 300
 
 #===============================================================================================================
 # [[0500]] Explicit Mod filtering
