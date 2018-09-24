@@ -3260,7 +3260,7 @@ Show # $maps->elder->Top
 	SetTextColor 100 0 122 255           # TEXTCOLOR:	 High Map
 	SetBorderColor 100 0 255 255         # BORDERCOLOR:	 T0 Map
 	SetBackgroundColor 255 255 255 255   # BACKGROUND:	 T0 Drop
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 0 Red Square
 	PlayEffect Red
 
@@ -3272,7 +3272,7 @@ Show # $maps->shaped->Top
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 255 255 255 255   # BACKGROUND:	 T0 Drop
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 0 Red Square
 	PlayEffect Red
 
@@ -3284,7 +3284,7 @@ Show # $maps->shaped->High
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 200 200 200 255   # BACKGROUND:	 High Maps
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 0 Red Square
 	PlayEffect Yellow
 
@@ -3308,7 +3308,7 @@ Show # $maps->T16
 	SetTextColor 100 0 122 255           # TEXTCOLOR:	 High Map
 	SetBorderColor 100 0 255 255         # BORDERCOLOR:	 T0 Map
 	SetBackgroundColor 255 255 255 255   # BACKGROUND:	 T0 Drop
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 0 Red Square
 	PlayEffect Red
 
@@ -3319,7 +3319,7 @@ Show # $maps->T15
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 255 255 255 255   # BACKGROUND:	 T0 Drop
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 0 Red Square
 	PlayEffect Red
 
@@ -3334,7 +3334,7 @@ Show # $maps->T14
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 200 200 200 255   # BACKGROUND:	 High Maps
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 1 Red Square
 	PlayEffect Yellow
 
@@ -3345,7 +3345,7 @@ Show # $maps->T13
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 200 200 200 255   # BACKGROUND:	 High Maps
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 1 Red Square
 	PlayEffect Yellow
 
@@ -3356,7 +3356,7 @@ Show # $maps->T12
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 200 200 200 255   # BACKGROUND:	 High Maps
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 1 Red Square
 	PlayEffect Yellow
 
@@ -3367,7 +3367,7 @@ Show # $maps->T11
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 0 0 0 255             # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 200 200 200 255   # BACKGROUND:	 High Maps
-CustomAlertSound "LootSounds/im_a_doctor.ogg" 300
+CustomAlertSound "LootSounds/Inkeeper_Legendary.mp3" 300
 	MinimapIcon 1 Red Square
 	PlayEffect Yellow
 
