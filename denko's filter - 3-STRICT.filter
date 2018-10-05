@@ -1863,7 +1863,7 @@ Show # $Currency->Scroll->Portal %RF1 %H3 %TB-Currency-T7
 	SetTextColor 170 158 130 220         # TEXTCOLOR:	 Currency Cosmetic 2
 	SetBorderColor 30 50 100 255         # BORDERCOLOR:	 Portal
 	SetBackgroundColor 0 0 0 255         # BACKGROUND:	 Neutral T2
-CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
+CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
 
 Show # $Currency->Low->T3 %H2 %TB-Currency-T6
 	Class Currency
@@ -1882,7 +1882,7 @@ Show # $Currency->Scroll->Wisdoms
 	SetTextColor 170 158 130 220         # TEXTCOLOR:	 Currency Cosmetic 2
 	SetBorderColor 100 50 30 255         # BORDERCOLOR:	 Wisdom
 	SetBackgroundColor 0 0 0 255         # BACKGROUND:	 Neutral T2
-CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
+CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
 
 Show # $Currency->Scroll->Wisdom %RF1 %H2 %TB-Currency-T8
 	Class Currency
@@ -1891,7 +1891,7 @@ Show # $Currency->Scroll->Wisdom %RF1 %H2 %TB-Currency-T8
 	SetTextColor 170 158 130 220         # TEXTCOLOR:	 Currency Cosmetic 2
 	SetBorderColor 100 50 30 255         # BORDERCOLOR:	 Wisdom
 	SetBackgroundColor 0 0 0 255         # BACKGROUND:	 Neutral T2
-CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
+CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
 
 #===============================================================================================================
 # [[1000]] OVERRIDE AREA 2 - Override the default rare rulesets here
@@ -2271,7 +2271,7 @@ Show # %D3 %UP $Recipe->RGB->Small
 	SetTextColor 255 190 0 255           # TEXTCOLOR:	 Rares - Level - 75+
 	SetBorderColor 150 150 150           # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 75 75 75 255      # BACKGROUND:	 Recipe T2
-CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
+CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
 
 Show
 	Width <= 2
@@ -2283,7 +2283,7 @@ Show
 	SetTextColor 255 255 119 255         # TEXTCOLOR:	 T2 Rare
 	SetBorderColor 150 150 150           # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 75 75 75 255      # BACKGROUND:	 Recipe T2
-CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
+CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
 
 Show # %D3 %UP $Recipe->RGB->Small
 	Width <= 1
@@ -2295,7 +2295,7 @@ Show # %D3 %UP $Recipe->RGB->Small
 	SetTextColor 255 190 0 255           # TEXTCOLOR:	 Rares - Level - 75+
 	SetBorderColor 150 150 150           # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 75 75 75 255      # BACKGROUND:	 Recipe T2
-CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
+CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
 
 Show
 	Width <= 1
@@ -2307,7 +2307,7 @@ Show
 	SetTextColor 255 255 119 255         # TEXTCOLOR:	 T2 Rare
 	SetBorderColor 150 150 150           # BORDERCOLOR:	 Neutral T1
 	SetBackgroundColor 75 75 75 255      # BACKGROUND:	 Recipe T2
-CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
+CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
 
 Show # %D1 %UP $Recipe->RGB->Large
 	ItemLevel >= 75
@@ -2316,7 +2316,7 @@ Show # %D1 %UP $Recipe->RGB->Large
 	SetTextColor 255 190 0 255           # TEXTCOLOR:	 Rares - Level - 75+
 	SetBorderColor 0 0 0                 # BORDERCOLOR:	 Neutral T1.5
 	SetBackgroundColor 75 75 75 255      # BACKGROUND:	 Recipe T2
-CustomAlertSound "LootSounds/OH_IZARO.mp3" 300
+CustomAlertSound "LootSounds/Chat_wheel_2018_ta_daaaa.mp3" 300
 
 #Show
 #	ItemLevel >= 65
